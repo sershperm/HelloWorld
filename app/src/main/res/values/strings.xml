@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">HelloWorld</string>
+    <string name="TextHello">Поздороваться</string>
+    <string name="textCounterCat">Считаем котов</string>
+    <string name="textCounterCrows">Считаем ворон</string>
+    <string name="about_text">
+        У лукоморья дуб зелёный;\n
+        Златая цепь на дубе том:\n
+        И днём и ночью <b>кот учёный</b>\n
+        Всё ходит по цепи кругом;\n
+        Идёт <b>направо</b> - песнь заводит,\n
+        <b>Налево</b> - сказку говориит.</string>
+    <string name="about_title">О программе</string>
+    <string name="textAbout">О программе</string>
+    <string name="textButtonSA">Передать</string>
+    <string name="textTransferData">Передача данных</string>
+</resources>
